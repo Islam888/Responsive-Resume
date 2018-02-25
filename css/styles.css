@@ -77,6 +77,7 @@ p {
   margin-top: 3em;
   clear: both;
   overflow: hidden;
+  transition: 0.5s;
 }
 .part:first-child {
   margin-top: 0;
