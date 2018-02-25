@@ -1,2 +1,2 @@
 # Responsive-Resume
-a Udacity Exercise.
+**a [Udacity](http://udacity.com/) Front End Web Development Nanodegree Exercise.**
